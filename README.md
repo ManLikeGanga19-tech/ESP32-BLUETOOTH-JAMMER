@@ -40,7 +40,7 @@ All the parts needed are listed below with links to buy them from AliExpress or 
 
 Follow the wiring below using the same pins and the code will work out of the box with no adjustments needed.
 
-![Breadboard Wiring Diagram](https://github.com/stuthemoo/ESP32BluetoothJammer/raw/main/wiring-breadboard.png "Breadboard Wiring Diagram")
+![Breadboard Wiring Diagram](https://github.com/stuthemoo/ESP32BluetoothJammer/raw/main/wiring-breadboard.jpg "Breadboard Wiring Diagram")
 
 ## Uploading
 
